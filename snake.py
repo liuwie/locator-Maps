@@ -12,3 +12,5 @@ if a == b:
 	print 'edited value	'
 
 	print 'this is the new added line'
+
+	print 'this is a second line '
